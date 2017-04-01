@@ -129,6 +129,7 @@
 * [Multi SSH Authorized Keys](exploits/multi/ssh_auth_keys.md)
 * [Shellshock](exploits/multi/shellshock.md)
 * [TCP-32764 RCE](exploits/multi/tcp_32764_rce.md)
+* [Misfortune Cookie](exploits/multi/misfortune_cookie.md)
 
 ## Linksys
 * [Linksys SMART WiFi Password Disclosure](exploits/linksys/smartwifi_password_disclosure.md)

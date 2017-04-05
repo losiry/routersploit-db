@@ -162,3 +162,19 @@
 * [Technicolor TC7200 Password Disclosure](exploits/technicolor/tc7200_password_disclosure_v2.md)
 * [Technicolor TC7200 Password Disclosure](exploits/technicolor/tc7200_password_disclosure.md)
 * [Technicolor DWG-855 Auth Bypass](exploits/technicolor/dwg855_authbypass.md)
+
+# Creds
+
+* [FTP Bruteforce](creds/ftp_bruteforce.md)
+* [FTP Default Creds](creds/ftp_default.md)
+* [HTTP Basic Bruteforce](creds/http_basic_bruteforce.md)
+* [HTTP Basic Default Creds](creds/http_basic_default.md)
+* [HTTP Digest Bruteforce](creds/http_digest_bruteforce.md)
+* [HTTP Digest Default Creds](creds/http_digest_default.md)
+* [HTTP Form Bruteforce](creds/http_form_bruteforce.md)
+* [HTTP Form Default Creds](creds/http_form_default.md)
+* [SNMP Bruteforce](creds/snmp_bruteforce.md)
+* [SSH Bruteforce](creds/ssh_bruteforce.md)
+* [SSH Default Creds](creds/ssh_default.md)
+* [Telnet Bruteforce](creds/telnet_bruteforce.md)
+* [Telnet Default Creds](creds/telnet_default.md)

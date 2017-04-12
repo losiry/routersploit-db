@@ -96,6 +96,7 @@
 * [D-Link DIR-645 & DIR-815 RCE](exploits/dlink/dir_645_815_rce.md)
 * [D-Link DSL-2640B DNS Change](exploits/dlink/dsl_2640b_dns_change.md)
 * [D-Link DCS-930L Auth RCE](exploits/dlink/dcs_930l_auth_rce.md)
+* [D-Link DCS-930L & DCS-932L Auth Bypass](exploits/dlink/dcs_930l_932l_auth_bypass.md)
 * [D-Link DSL-2730U/2750U/2750E Path Traversal](exploits/dlink/dsl_2730_2750_path_traversal.md)
 * [D-LINK DNS-320L & DIR-327L RCE](exploits/dlink/dns_320l_327l_rce.md)
 * [D-Link DSL-2780B & DSL-2730B & DSL-526B DNS Change](exploits/dlink/dsl_2730b_2780b_526b_dns_change.md)
